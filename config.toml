@@ -1,0 +1,4 @@
+baseURL = "https://bluequarksystems.com/"
+languageCode = "en-us"
+title = "Blue Quark Systems"
+theme = "bluequark"
